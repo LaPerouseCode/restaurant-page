@@ -1,2 +1,2 @@
 # restaurant-page
-Odin Project assignment Restaurant Page
+Assignment from the Odin Project about webpack on a restaurant page
